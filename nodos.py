@@ -1,3 +1,8 @@
+#Juan Felipe Rojas Rojas MUñoz 
+# Trabajo nodos. 
+#Universidad Sergio Arboleda. 
+
+
 import random
 
 
